@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="select_dt">Select Date</string>
+    <string name="selected_dt">Selected Date</string>
+    <string name="change">Change</string>
+</resources>
